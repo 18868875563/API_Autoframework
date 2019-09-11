@@ -39,7 +39,7 @@ public class RestClient {
         for(Header header : headerArray){
             hm.put(header.getName(), header.getValue());
         }
-        System.out.println("response headers-->"+hm);
+        System.out.println("response headers xiugaixiugai1-->"+hm);
     }
 
 
